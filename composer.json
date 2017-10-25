@@ -1,13 +1,14 @@
 {
-  "name": "light/yii2-swagger",
+  "name": "munspel/yii2-swagger",
   "description": "swagger intergation with yii2",
   "type": "library",
   "keywords": ["yii2","extension","swagger","Restful","document"],
   "license": "MIT",
+  "version": "1.0.1",
   "authors": [
     {
-      "name": "lichunqiang",
-      "email": "light-li@hotmail.com"
+      "name": "munspel",
+      "email": "munspel@ukr.net"
     }
   ],
   "require": {
@@ -23,7 +24,7 @@
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "1.0.x-dev"
+      "dev-master": "1.0.1"
     }
   }
 }
